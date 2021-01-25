@@ -37,6 +37,7 @@ public class Laberinto {
 
         //laberintoConValorN(m,0,0,3,3,1);
         System.out.println("La cantidad de Soluciones es: " + c);
+        System.out.println("Hola Como estas");
     }
         public static void mostrar(int m[][])
     {
